@@ -1,0 +1,15 @@
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.csproj.AssemblyReference.cache
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.AssemblyInfoInputs.cache
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.AssemblyInfo.cs
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.csproj.CoreCompileInputs.cache
+/Users/rainhu/workspace/designPattern/Builder/bin/Debug/net7.0/Builder
+/Users/rainhu/workspace/designPattern/Builder/bin/Debug/net7.0/Builder.deps.json
+/Users/rainhu/workspace/designPattern/Builder/bin/Debug/net7.0/Builder.runtimeconfig.json
+/Users/rainhu/workspace/designPattern/Builder/bin/Debug/net7.0/Builder.dll
+/Users/rainhu/workspace/designPattern/Builder/bin/Debug/net7.0/Builder.pdb
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.dll
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/refint/Builder.dll
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.pdb
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/Builder.genruntimeconfig.cache
+/Users/rainhu/workspace/designPattern/Builder/obj/Debug/net7.0/ref/Builder.dll

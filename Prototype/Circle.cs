@@ -1,0 +1,17 @@
+using System;
+using System.Collections.Generic;
+using System.Data;
+using System.Linq;
+using System.Runtime.CompilerServices;
+using System.Data.Common;
+
+namespace Prototype
+{
+    public class Circle : Shape
+    {
+        public Circle()
+        {
+            base.type = "Circle";
+        }
+    }
+}

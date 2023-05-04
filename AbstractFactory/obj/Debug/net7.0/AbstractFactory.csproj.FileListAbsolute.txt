@@ -1,0 +1,15 @@
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.AssemblyReference.cache
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfoInputs.cache
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.AssemblyInfo.cs
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.csproj.CoreCompileInputs.cache
+/Users/rainhu/workspace/design_pattern/AbstractFactory/bin/Debug/net7.0/AbstractFactory
+/Users/rainhu/workspace/design_pattern/AbstractFactory/bin/Debug/net7.0/AbstractFactory.deps.json
+/Users/rainhu/workspace/design_pattern/AbstractFactory/bin/Debug/net7.0/AbstractFactory.runtimeconfig.json
+/Users/rainhu/workspace/design_pattern/AbstractFactory/bin/Debug/net7.0/AbstractFactory.dll
+/Users/rainhu/workspace/design_pattern/AbstractFactory/bin/Debug/net7.0/AbstractFactory.pdb
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.dll
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/refint/AbstractFactory.dll
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.pdb
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/AbstractFactory.genruntimeconfig.cache
+/Users/rainhu/workspace/design_pattern/AbstractFactory/obj/Debug/net7.0/ref/AbstractFactory.dll

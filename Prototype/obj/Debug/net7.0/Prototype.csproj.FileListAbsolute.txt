@@ -1,0 +1,15 @@
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.csproj.AssemblyReference.cache
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfoInputs.cache
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.AssemblyInfo.cs
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.csproj.CoreCompileInputs.cache
+/Users/rainhu/workspace/designPattern/Prototype/bin/Debug/net7.0/Prototype
+/Users/rainhu/workspace/designPattern/Prototype/bin/Debug/net7.0/Prototype.deps.json
+/Users/rainhu/workspace/designPattern/Prototype/bin/Debug/net7.0/Prototype.runtimeconfig.json
+/Users/rainhu/workspace/designPattern/Prototype/bin/Debug/net7.0/Prototype.dll
+/Users/rainhu/workspace/designPattern/Prototype/bin/Debug/net7.0/Prototype.pdb
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.dll
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/refint/Prototype.dll
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.pdb
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/Prototype.genruntimeconfig.cache
+/Users/rainhu/workspace/designPattern/Prototype/obj/Debug/net7.0/ref/Prototype.dll

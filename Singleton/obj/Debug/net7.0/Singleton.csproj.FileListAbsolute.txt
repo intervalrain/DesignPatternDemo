@@ -1,0 +1,15 @@
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.csproj.AssemblyReference.cache
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.GeneratedMSBuildEditorConfig.editorconfig
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfoInputs.cache
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.AssemblyInfo.cs
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.csproj.CoreCompileInputs.cache
+/Users/rainhu/workspace/designPattern/Singleton/bin/Debug/net7.0/Singleton
+/Users/rainhu/workspace/designPattern/Singleton/bin/Debug/net7.0/Singleton.deps.json
+/Users/rainhu/workspace/designPattern/Singleton/bin/Debug/net7.0/Singleton.runtimeconfig.json
+/Users/rainhu/workspace/designPattern/Singleton/bin/Debug/net7.0/Singleton.dll
+/Users/rainhu/workspace/designPattern/Singleton/bin/Debug/net7.0/Singleton.pdb
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.dll
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/refint/Singleton.dll
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.pdb
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/Singleton.genruntimeconfig.cache
+/Users/rainhu/workspace/designPattern/Singleton/obj/Debug/net7.0/ref/Singleton.dll
